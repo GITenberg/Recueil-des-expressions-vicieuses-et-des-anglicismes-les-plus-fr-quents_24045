@@ -1,0 +1,26 @@
+_repo: Recueil-des-expressions-vicieuses-et-des-anglicismes-les-plus-fr-quents_24045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gingras, Jules Fabien
+    gutenberg_agent_id: '26195'
+    url: http://www.gutenberg.org/2009/agents/26195
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2007-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24045'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Canada -- Errors of usage'
+- !lcsh 'French language -- Canada -- Foreign words and phrases -- English'
+- !lcc 'PC'
+title: Recueil des expressions vicieuses et des anglicismes les plus fréquents
+url: http://www.gutenberg.org/ebooks/24045
