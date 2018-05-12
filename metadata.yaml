@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26195'
     url: http://www.gutenberg.org/2009/agents/26195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24045#Recueil-des-expressions-vicieuses-et-des-anglicismes-les-plus-fr-quents
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2007-12-26'
 gutenberg_type: Text
